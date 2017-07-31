@@ -1,0 +1,10 @@
+D:\CLASS\Pemisah Pesan\Pemisah Pesan\bin\Debug\Pemisah Pesan.exe.config
+D:\CLASS\Pemisah Pesan\Pemisah Pesan\bin\Debug\Pemisah Pesan.exe
+D:\CLASS\Pemisah Pesan\Pemisah Pesan\bin\Debug\Pemisah Pesan.pdb
+D:\CLASS\Pemisah Pesan\Pemisah Pesan\bin\Debug\Pemisah Pesan.xml
+D:\CLASS\Pemisah Pesan\Pemisah Pesan\obj\Debug\Pemisah_Pesan.frmPemisahPesan.resources
+D:\CLASS\Pemisah Pesan\Pemisah Pesan\obj\Debug\Pemisah_Pesan.Resources.resources
+D:\CLASS\Pemisah Pesan\Pemisah Pesan\obj\Debug\Pemisah Pesan.vbproj.GenerateResource.Cache
+D:\CLASS\Pemisah Pesan\Pemisah Pesan\obj\Debug\Pemisah Pesan.exe
+D:\CLASS\Pemisah Pesan\Pemisah Pesan\obj\Debug\Pemisah Pesan.xml
+D:\CLASS\Pemisah Pesan\Pemisah Pesan\obj\Debug\Pemisah Pesan.pdb
